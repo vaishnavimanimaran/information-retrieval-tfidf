@@ -1,0 +1,8 @@
+Data Science is an interdisciplinary field that uses statistics, mathematics, programming, and domain knowledge to collect, process, analyze, and interpret data. 
+The main purpose of Data Science is to discover useful patterns and information from data and use them to support better decisions. 
+A data scientist usually performs several activities such as data collection, data cleaning, data preprocessing, exploratory analysis, visualization, feature selection, model development, and evaluation. 
+Data can be structured, such as information stored in tables and databases, or unstructured, such as text, images, audio, and videos. 
+Python is widely used in Data Science because libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn provide useful tools for data analysis and visualization. 
+Data Science is applied in healthcare, banking, marketing, education, business, and scientific research. 
+Good quality data is important because incorrect or incomplete data can produce unreliable results. 
+Data Science helps organizations understand information and make accurate predictions.

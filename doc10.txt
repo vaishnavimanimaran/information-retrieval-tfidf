@@ -1,0 +1,7 @@
+Blockchain is a distributed digital ledger technology that is used to record and store transactions in a secure and transparent manner. 
+In a blockchain network, information is organized into groups called blocks, and each block is connected to the previous block using cryptographic techniques. 
+This structure makes it difficult to change previously recorded information without being detected. Unlike a traditional database controlled by a single organization, 
+a blockchain can be maintained by multiple participants in a distributed network. Consensus mechanisms are used to help participants agree about the validity of transactions. 
+Blockchain technology is widely associated with cryptocurrencies, but it can also be used in supply chain management, digital identity, healthcare records, secure document 
+verification, and financial services. Smart contracts are programs that can automatically execute predefined rules on a blockchain. Important advantages of blockchain include transparency, 
+traceability, and resistance to unauthorized modification. However, scalability, privacy, energy consumption, and regulatory issues remain important challenges.

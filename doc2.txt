@@ -1,0 +1,8 @@
+Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data and improve their performance without being explicitly programmed for every task. 
+A machine learning system studies previous data, identifies useful patterns, and uses those patterns to make predictions or decisions about new data. 
+There are three major types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. 
+Supervised learning uses labeled data for tasks such as classification and prediction. 
+Unsupervised learning discovers hidden patterns or groups in data, while reinforcement learning learns through rewards and penalties. 
+Machine Learning is used in many real-world applications, including email spam detection, recommendation systems, medical diagnosis, customer analysis, 
+financial forecasting, and image recognition. The quality of training data is very important because inaccurate or incomplete data can affect the performance of the model. 
+Machine Learning helps organizations automate tasks and make better decisions using data.

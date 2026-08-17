@@ -1,0 +1,8 @@
+Computer Vision is a branch of Artificial Intelligence that enables computers to understand and analyze information from digital images and videos. 
+It combines image processing, Machine Learning, and Deep Learning techniques to identify objects, recognize patterns, and extract useful information from visual data. 
+Important Computer Vision tasks include image classification, object detection, facial recognition, image segmentation, and optical character recognition. 
+Deep Learning models, especially Convolutional Neural Networks, are widely used because they can learn visual features from large collections of images. 
+Computer Vision has many practical applications in healthcare, security, transportation, manufacturing, agriculture, and entertainment. 
+For example, doctors can use computer vision systems to analyze medical images, while autonomous vehicles can use cameras to identify roads, vehicles, and pedestrians. 
+Security systems can also use facial recognition and object detection. The accuracy of a Computer Vision system depends on image quality, training data, model design, 
+and proper evaluation.

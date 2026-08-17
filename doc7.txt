@@ -1,0 +1,9 @@
+Cyber Security is the practice of protecting computers, networks, software applications, and digital information from unauthorized access, attacks, damage, and disruption.
+As people and organizations depend more on digital technologies, protecting information has become very important. 
+Common cyber threats include phishing, malware, ransomware, password attacks, social engineering, and denial of service attacks. 
+Cyber security professionals use several methods to reduce these risks, including firewalls, encryption, antivirus software, secure authentication, intrusion detection systems, and regular software updates. 
+Strong passwords and multi-factor authentication can provide additional protection for user accounts. 
+Organizations should also train employees to identify suspicious emails, links, and messages. 
+Cyber security includes activities such as risk assessment, security monitoring, incident response, and data recovery. 
+The three main goals of information security are confidentiality, integrity, and availability. 
+A strong cyber security system helps protect sensitive information and ensures that important digital services remain safe and reliable.
