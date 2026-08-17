@@ -1,0 +1,19 @@
+Query 1: What is Artificial Intelligence and how is it used in modern applications?
+
+Query 2: What is Machine Learning and how does it learn patterns from data?
+
+Query 3: What is Deep Learning and how are neural networks used for complex problems?
+
+Query 4: What is Natural Language Processing and how does it help computers understand human language?
+
+Query 5: What is Computer Vision and how does it analyze images and videos?
+
+Query 6: What is Data Science and how is data processed to obtain useful information?
+
+Query 7: What is Cyber Security and how can digital information be protected from cyber attacks?
+
+Query 8: What is Cloud Computing and what are its major service models and benefits?
+
+Query 9: What is the Internet of Things and how do connected devices collect and exchange data?
+
+Query 10: What is Blockchain and how does it provide secure and tamper-resistant records?
